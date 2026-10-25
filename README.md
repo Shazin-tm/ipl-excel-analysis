@@ -8,7 +8,7 @@ An end-to-end Excel project on IPL match data: cleaning a messy dataset, analysi
 
 ## Dataset
 
-- **Source:** [IPL Complete Dataset 2008-2024](https://www.kaggle.com/) (Kaggle, by Patrick B), using `matches.csv`
+- **Source:** [IPL Complete Dataset 2008-2024](https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020) (Kaggle, by Patrick B), using `matches.csv`
 - **Size:** 1,095 matches across 17 seasons
 
 ## Project Files
